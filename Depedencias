@@ -1,0 +1,19 @@
+==> Dependencias <==
+
+Iniciar
+npm init -y
+
+npm i express
+https://expressjs.com/pt-br/
+
+npm i knex
+npx knex init
+https://knexjs.org/guide/#node-js
+
+MySql
+npm install mysql2
+
+Iniciar a API
+npx nodemon app
+
+"type" : "module"
